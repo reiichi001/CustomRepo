@@ -1,0 +1,46 @@
+[
+	{
+    "Author": "goat, enhanced by Franz",
+    "Name": "OwO",
+    "Description": "This plugin uwu's your chat. Now with toggles.",
+	"Tags": [
+			"owo",
+			"uwu",
+			"franz",
+		],
+    "InternalName": "owofy",
+	"RepoUrl": "https://github.com/reiichi001/dalamud-owo",
+    "AssemblyVersion": "1.2.0.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 2,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1613017716",
+    "DownloadLinkInstall": "https://github.com/reiichi001/dalamud-owo/releases/download/1/owo-Build-1.zip",
+    "DownloadLinkTesting": "https://github.com/reiichi001/dalamud-owo/releases/download/1/owo-Build-1.zip",
+    "DownloadLinkUpdate": "https://github.com/reiichi001/dalamud-owo/releases/download/1/owo-Build-1.zip"
+  },
+	{
+    "Author": "goat, modded by Franz",
+    "Name": "Discord Chat Bridge",
+    "Description": "This plugin allows you to receive your chat messages inside of discord.",
+    "InternalName": "Dalamud.DiscordBridge",
+    "AssemblyVersion": "1.0.1.0",
+    "RepoUrl": "https://github.com/reiichi001/Dalamud.DiscordBridge",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "2",
+    "Tags": [
+      "discord",
+      "chat",
+	  "franz"
+    ],
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1607447236",
+    "DownloadLinkInstall": "https://github.com/reiichi001/Dalamud.DiscordBridge/releases/download/9/Dalamud.DiscordBridge-Build-10.zip",
+    "DownloadLinkTesting": "https://github.com/reiichi001/Dalamud.DiscordBridge/releases/download/9/Dalamud.DiscordBridge-Build-10.zip",
+    "DownloadLinkUpdate": "https://github.com/reiichi001/Dalamud.DiscordBridge/releases/download/9/Dalamud.DiscordBridge-Build-10.zip"
+  }
+]
