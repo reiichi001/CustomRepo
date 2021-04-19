@@ -1,10 +1,10 @@
 [
 	{
     "Author": "Franz Renatus",
-    "Name": "ChatTyper",
+    "Name": "ChatTyper [Testing]",
     "Description": "Prefixes all chatbox messages with their chat types.",
     "InternalName": "ChatTyper",
-    "AssemblyVersion": "0.0.0.2",
+    "AssemblyVersion": "0.0.0.3",
     "RepoUrl": "https://github.com/reiichi001/dalamud-chattyper",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "3",
